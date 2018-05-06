@@ -12,7 +12,23 @@
 
 ## 使用
 
-[TOC]
+- 开始
+  - [环境](https://github.com/shmilymdt/shmilymdt.github.io#%E7%8E%AF%E5%A2%83)
+  - [开始](https://github.com/shmilymdt/shmilymdt.github.io#%E5%BC%80%E5%A7%8B)
+  - [撰写博文](https://github.com/shmilymdt/shmilymdt.github.io#%E6%92%B0%E5%86%99%E5%8D%9A%E6%96%87)
+- 组件
+  - [侧边栏](https://github.com/shmilymdt/shmilymdt.github.io#%E4%BE%A7%E8%BE%B9%E6%A0%8F)
+  - [迷你关于我](https://github.com/shmilymdt/shmilymdt.github.io#mini-about-me)
+  - [推荐标签](https://github.com/shmilymdt/shmilymdt.github.io#featured-tags)
+  - [好友链接](https://github.com/shmilymdt/shmilymdt.github.io#friends)
+  - [HTML5 演示文档布局](https://github.com/shmilymdt/shmilymdt.github.io#keynote-layout)
+- 评论与 Google/Baidu Analytics
+  - [评论](https://github.com/shmilymdt/shmilymdt.github.io#comment)
+  - [网站分析](https://github.com/shmilymdt/shmilymdt.github.io#analytics)
+- 高级部分
+  - [自定义](https://github.com/shmilymdt/shmilymdt.github.io#customization)
+  - [标题底图](https://github.com/shmilymdt/shmilymdt.github.io#header-image)
+  - [搜索展示标题-头文件](https://github.com/shmilymdt/shmilymdt.github.io#seo-title)
 
 
 
